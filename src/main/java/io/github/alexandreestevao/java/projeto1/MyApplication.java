@@ -10,11 +10,12 @@ import org.glassfish.jersey.server.ResourceConfig;
 
 /**
  *
- * @author Alexandre
+ * @author aluno
  */
 @ApplicationPath("rest")
-public class MyApplication extends ResourceConfig { //Extensão do ResourceConfig do Jersey
-    public MyApplication(){ //Construtor
+public class MyApplication extends ResourceConfig {
+
+    public MyApplication() {
         packages("io.github.alexandreestevao.java.projeto1.controllers");
     }
 }
