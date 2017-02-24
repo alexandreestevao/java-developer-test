@@ -1,0 +1,9 @@
+.formularioCorpo {
+    border-bottom: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
+    border-right: 1px solid #e5e5e5;
+    border-left: 1px solid #e5e5e5;
+    width: 66%;
+    height: 873px;
+    margin: 50px auto 100px auto;
+}
