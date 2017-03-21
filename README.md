@@ -1,9 +1,11 @@
-# java-developer-test
+Resultado do Analisador de Relatório
+======================
 
-Resultados do Analisador de Relatório.
+## Observação do Caso de Teste
 
-Observação no caso de teste getCodigoSequencialEventosDesarmeAposAlarme() onde o retorno 
-seria a lista de codigos sequenciais de eventos com desarme apos o alarme.
+getCodigoSequencialEventosDesarmeAposAlarme()
 
-Na notação não especifica que deverá ocorre para um determinado cliente. Fiz o caso de teste 
-subentendendo que ocorrerá para um determinado cliente (ex.: 0002)
+```
+Na notação não especifica que deve ocorre para um determinado cliente. Executei subentendendo que ocorrerá para um determinado cliente (ex.: 0002).
+
+```
